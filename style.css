@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+
+.idcard img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    border-radius: 100px;
+    border: 2px solid red;
+}
+
+.idcard {
+    background: #bbbbbb;
+    margin-top: 50px;
+    width: 280px !important;
+    
+}
+
+.idcard h2{
+    font-size: 15px;
+}
+
+.idcard h5{
+    font-size: 14px;
+}
+
+.idcard h6{
+    font-size: 13px;
+}
+
+.autdiv.mx-auto {
+    width: 62%;
+}
+
+.autdiv span {
+    color: #853d3d;
+}
